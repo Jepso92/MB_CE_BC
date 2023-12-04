@@ -30,7 +30,7 @@
     <string id="CEBROTHEL0994" text="Prostitute degne di nota" />
     <string id="CEBROTHEL0995" text="Interrompi le operazioni" />
     <string id="CEBROTHEL0996" text="Avvia le operazioni" />
-    <string id="CEBROTHEL0997" text="Il bordello è attualmente {?ISRUNNING}aperto{?}chiuso, è necessario {AMOUNT} denari per ricominciare a operare{\?}." />
+    <string id="CEBROTHEL0997" text="Il bordello è attualmente {?ISRUNNING}aperto{\?}chiuso, è necessario {AMOUNT} denari per ricominciare a operare{\?}." />
     <string id="CEBROTHEL0998" text="Il bordello di {SETTLEMENT} è fallito e non è più aperto." />
     <string id="CEBROTHEL0999" text="Il bordello di {SETTLEMENT} è fallito ed è stato requisito." />
     <string id="CEBROTHEL1000" text="Potete vendere questo bordello per {AMOUNT} denari." />

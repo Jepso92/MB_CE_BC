@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LanguageData id="Italian">
+<LanguageData id="Italiano">
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsCommon.xml" />
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsFemale.xml" />
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsMale.xml" />
