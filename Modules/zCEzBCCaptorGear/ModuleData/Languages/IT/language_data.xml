@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Italian">
+  <LanguageFile xml_path="IT/BCCaptor_Text.xml" />
+  <LanguageFile xml_path="IT/TBModularEvents.xml" />
+  <LanguageFile xml_path="IT/TBRandomEvents.xml" />
+  <LanguageFile xml_path="IT/TBSlaveryEventsFemale.xml" />
+</LanguageData>

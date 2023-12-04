@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Italian">
+  <LanguageFile xml_path="Italian/DefaultCaptiveEventsCommon.xml" />
+  <LanguageFile xml_path="Italian/DefaultCaptiveEventsFemale.xml" />
+  <LanguageFile xml_path="Italian/DefaultCaptiveEventsMale.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultCaptiveRequiredGeneral.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultCaptorEventsCommon.xml" />
+  <LanguageFile xml_path="Italian/DefaultCaptorEventsFemale.xml" />
+  <LanguageFile xml_path="Italian/DefaultCaptorEventsMale.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultCatcherEvents.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultProstitutionEventsFemale.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultRandomEventsCommon.xml" />
+  <LanguageFile xml_path="Italian/DefaultRandomEventsCompanionsFemale.xml" />
+  <LanguageFile xml_path="Italian/DefaultRandomEventsCompanionsMale.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultRandomEventsFemale.xml" />
+  <LanguageFile xml_path="Italian/DefaultSlaveryEventsFemale.xml" />
+  
+  <LanguageFile xml_path="Italian/DefaultSpouseEventsFemale.xml" />
+  <LanguageFile xml_path="Italian/DefaultSpouseEventsMale.xml" />
+
+  <LanguageFile xml_path="Italian/DefaultWaitingMenus.xml" />
+  <LanguageFile xml_path="Italian/DefaultWaitingMenusGeneral.xml" />
+  
+</LanguageData>
