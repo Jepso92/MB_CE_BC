@@ -4,18 +4,18 @@
     <tag language="Italian" />
   </tags>
   <strings>
-    <string id="DefaultCaptiveRequiredSFWEventsFemale1" text="You fight valiantly, but as the battle concludes you find yourself surrounded. You do your best to hold your enemies at bay, but as they close in one of them knocks your weapon to the ground, and another grabs your arms, shackling them behind you." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale2" text="Continue..." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale3" text="Your enemies take your weapons and armor as you surrender. Their leader briefly inspects your restraints, nodding approvingly as you are rounded up with the rest of the captives." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale4" text="Bide your time." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale5" text="Your attempt to infiltrate the castle fails spectacularly, and you are quickly surrounded by guards. They take your weapons, dragging you to the dungeons where they throw you into a cell, commenting that their leader will be by shortly to interrogate you." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale6" text="Or more likely gloat..." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale7" text="Your enemies take your armor and weapons, leaving you with only a ragged robe to cover yourself with. They bind your arms and legs, cautiously shackling you to one of their carts." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale8" text="Bide your time..." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale9" text="The townsfolk take your armor and weapons, leaving you with only a ragged robe to cover yourself with. They bind your arms and legs, cautiously leading you to a holding cell." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale10" text="The villagers take your armor and weapons, leaving you with only a ragged robe to cover yourself with. They bind your arms and legs, cautiously leading you to a holding cell." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale11" text="You're spotted as you attempt to escape, and a group of your captors shove you to the ground, binding your wrists with ropes to prevent any further resistance. They decide to take your punishment into their own hands, punching and kicking you while you're down." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale12" text="Maybe that wasn't a great idea..." />
-    <string id="DefaultCaptiveRequiredSFWEventsFemale13" text="You're almost spotted by a group of unusually wary guards as you leave camp, but manage to give them the slip by throwing a rock in the other direction as you scurry away. You breathe a well-earned sigh of relief when you're sure you've escaped." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale1" text="Combattete valorosamente, ma alla fine della battaglia vi ritrovate circondati. Fate del vostro meglio per tenere a bada i nemici, ma mentre si avvicinano uno di loro fa cadere a terra la vostra arma e un altro vi afferra le braccia, incatenandole dietro di voi." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale2" text="Continua..." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale3" text="I nemici prendono le armi e l'armatura mentre vi arrendete. Il loro capo ispeziona brevemente i vostri legacci, annuendo con approvazione mentre venite radunati con il resto dei prigionieri." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale4" text="Attendete il momento giusto." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale5" text="Il vostro tentativo di infiltrarvi nel castello fallisce clamorosamente e venite rapidamente circondati dalle guardie. Prendono le vostre armi e vi trascinano nei sotterranei dove vi gettano in una cella, dicendo che il loro capo passerà a breve per interrogarvi." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale6" text="O più probabilmente gongolare..." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale7" text="I vostri nemici vi prendono l'armatura e le armi, lasciandovi solo una veste logora con cui coprirvi. Vi legano le braccia e le gambe, incatenandovi cautamente a uno dei loro carri." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale8" text="Aspettate il momento giusto..." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale9" text="Gli abitanti della città ti prendono l'armatura e le armi, lasciandoti solo una tunica stracciata con cui coprirti. Vi legano le braccia e le gambe e vi conducono con cautela in una cella di detenzione." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale10" text="Gli abitanti del villaggio vi prendono l'armatura e le armi, lasciandovi solo una veste stracciata con cui coprirvi. Vi legano le braccia e le gambe e vi conducono cautamente in una cella di detenzione." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale11" text="Siete stati avvistati mentre cercavate di fuggire e un gruppo di rapitori vi ha spinto a terra, legandovi i polsi con delle corde per impedire ogni ulteriore resistenza. Decidono di punirti con le loro mani, colpendoti con calci e pugni mentre sei a terra." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale12" text="Forse non è stata una grande idea..." />
+    <string id="DefaultCaptiveRequiredSFWEventsFemale13" text="Mentre lasciate l'accampamento, venite quasi individuati da un gruppo di guardie insolitamente prudenti, ma riuscite a farli distrarre lanciando un sasso nella direzione opposta mentre vi allontanate di corsa. Tirate un meritato sospiro di sollievo quando siete sicuri di essere riusciti a fuggire." />
   </strings>
 </base>
