@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="English" />
+    <tag language="Italian" />
   </tags>
   <strings>
-    <string id="DefaultCaptiveRequiredGeneral1" text="Your enemies take your weapons and armor as you surrender. Their leader briefly gropes your breast and buttocks, nodding approvingly as you are rounded up with the rest of the captives." />
-    <string id="DefaultCaptiveRequiredGeneral2" text="What will happen to you now?" />
-    <string id="DefaultCaptiveRequiredGeneral3" text="You are stripped of your clothing and weapons, your supple breasts and pert buttocks on display for every horny man in camp. You suspect you'll be the star in more than one man's nighttime fantasies." />
-    <string id="DefaultCaptiveRequiredGeneral4" text="Or worse." />
+    <string id="DefaultCaptiveRequiredGeneral1" text="I nemici prendono le armi e l'armatura mentre vi arrendete. Il loro capo vi palpa brevemente il seno e le natiche, annuendo con approvazione mentre venite radunati con il resto dei prigionieri." />
+    <string id="DefaultCaptiveRequiredGeneral2" text="Cosa vi succederà ora?" />
+    <string id="DefaultCaptiveRequiredGeneral3" text="Sei stata spogliata dei tuoi vestiti e delle tue armi, i tuoi seni flessuosi e le tue natiche perturbate sono in mostra per tutti gli uomini arrapati dell'accampamento. Sospettate di essere la protagonista delle fantasie notturne di più di un uomo." />
+    <string id="DefaultCaptiveRequiredGeneral4" text="O peggio." />
   </strings>
 </base>
