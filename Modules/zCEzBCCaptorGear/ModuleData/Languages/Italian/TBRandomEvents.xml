@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="TBRandomEvents_Flowergirl001" text="One of the villagers following your army has come to sell fruits and flowers, her green dress emphasizing her bountiful curves. She smiles at you and curtsies politely as befits your station." />
