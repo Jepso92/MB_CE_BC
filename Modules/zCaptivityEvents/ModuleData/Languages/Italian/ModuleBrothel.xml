@@ -81,28 +81,28 @@
     <string id="CEBROTHEL1045" text="C'è qualcosa che vuoi?[ib:closed][rb:unsure]" />
     <string id="CEBROTHEL1046" text="Quanto costa il suo tempo?" />
     <string id="CEBROTHEL1047" text="Non come in questo momento." />
-    <string id="CEBROTHEL1048" text="Ok, beh... {AMOUNT} denari sembrano essere giusti.[ib:closed][rb:unsure]" />
+    <string id="CEBROTHEL1048" text="Per te... {AMOUNT} denari potrebbero bastare..[ib:closed][rb:unsure]" />
     <string id="CEBROTHEL1049" text="Bene, ecco a voi." />
     <string id="CEBROTHEL1050" text="Non importa." />
     <string id="CEBROTHEL1051" text="Seguitemi sul retro.[ib:closed][rb:unsure]" />
     <string id="CEBROTHEL1052" text="Ugh...[ib:closed][rb:unsure]" />
     <string id="CEBROTHEL1053" text="Oh, un cliente stimato, come posso aiutarla oggi?[ib:confident][rb:very_positive]" />
-    <string id="CEBROTHEL1054" text="Vorrei acquistare il vostro stabilimento." />
+    <string id="CEBROTHEL1054" text="Vorrei acquistare il vostro bordello." />
     <string id="CEBROTHEL1055" text="Al momento non ho bisogno di nulla." />
-    <string id="CEBROTHEL1056" text="Vendo questo stabilimento per {AMOUNT} denari." />
+    <string id="CEBROTHEL1056" text="Vendo questo bordello per {AMOUNT} denari." />
     <string id="CEBROTHEL1057" text="È un piacere fare affari.[ib:confident][rb:very_positive]" />
     <string id="CEBROTHEL1058" text="Molto bene, sono qui se avete bisogno di qualcosa. [ib:confident][rb:very_positive]" />
-    <string id="CEBROTHEL1059" text="Lasciatemi preparare lo stabilimento, sarà presto pronto per voi." />
+    <string id="CEBROTHEL1059" text="Lasciatemi preparare lo bordello, sarà presto pronto per voi." />
     <string id="CEBROTHEL1060" text="Salve {?PLAYER.GENDER}Mia Signora{?}Mio Signore{\?}, come posso aiutarvi oggi?[ib:confident][rb:very_positive]" />
-    <string id="CEBROTHEL1061" text="Vorrei vendere il nostro stabilimento." />
-    <string id="CEBROTHEL1062" text="Possiamo vendere questo stabilimento per {AMOUNT} denari." />
+    <string id="CEBROTHEL1061" text="Vorrei vendere il nostro bordello." />
+    <string id="CEBROTHEL1062" text="Possiamo vendere questo bordello per {AMOUNT} denari." />
     <string id="CEBROTHEL1063" text="È stato un piacere lavorare per voi![ib:confident][rb:very_positive]" />
     <string id="CEBROTHEL1064" text="Il nuovo proprietario arriverà a breve, per ora mi limito a sistemare le cose." />
     <string id="CEBROTHEL1065" text="Forse dovresti farlo, hai proprio l'aspetto di una {?PLAYER.GENDER}puttana{?}prostituta{\?}!" />
     <string id="CEBROTHEL1066" text="Le mie scuse, {?PLAYER.GENDER}Mia Signora{?}Mio Signore{\?}!" />
     <string id="CEBROTHEL1067" text="Questo non è un posto per me, {?PLAYER.GENDER}Mia Signora{?}Mio Signore{\?}! Che cosa vuoi?[ib:closed][rb:unsure]" />
 
-    <string id="CEBROTHEL1068" text="Vorrei acquistare alcuni servizi per la mia festa." />
+    <string id="CEBROTHEL1068" text="Vorrei acquistare alcuni servizi per le mie truppe." />
     <string id="CEBROTHEL1069" text="Mandate delle signore per risollevare il morale delle mie truppe." />
     <string id="CEBROTHEL1070" text="Si, {?PLAYER.GENDER}Mia Signora{?}Mio Signore{\?} la manderò per prima." />
     <string id="CEBROTHEL1071" text="Scusi, {?PLAYER.GENDER}Mia Signora{?}Mio Signore{\?} tutti sono attualmente impegnati." />
