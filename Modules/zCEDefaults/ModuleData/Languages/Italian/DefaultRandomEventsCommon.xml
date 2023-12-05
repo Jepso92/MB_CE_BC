@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="DefaultRandomEventsCommon1" text="Sfondando la porta di un cottage apparentemente abbandonato, siete sorpresi di trovare un gruppo di abitanti del villaggio nascosti all'interno, soprattutto donne, bambini e anziani. Implorano la vostra pietà e voi decidete di non ucciderli sul posto: dopo tutto, potrebbero rivelarsi più preziosi come prigionieri che come cadaveri." />

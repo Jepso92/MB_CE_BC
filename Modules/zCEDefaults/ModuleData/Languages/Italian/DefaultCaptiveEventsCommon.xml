@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="DefaultCaptiveEventsCommon1" text="Uno dei vostri rapitori si avvicina a voi tenendo in mano una camicia sporca e opaca. Uno strappo insanguinato è visibile sul davanti, dove è stata danneggiata in battaglia. {?ISCAPTORFEMALE}Lei{?}Lui{\?} te lo sbatte in faccia e ti ordina di ripararlo o di affrontarne le conseguenze.." />

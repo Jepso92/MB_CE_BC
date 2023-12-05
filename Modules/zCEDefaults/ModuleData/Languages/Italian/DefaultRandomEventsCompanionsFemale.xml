@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="DefaultRandomEventsCompanionsFemale1" text="{COMPANION_NAME_1} chiede di parlare con voi. La invitate nella vostra tenda. {COMPANION_NAME_1} dice che le sue truppe sono state pigre ultimamente e hanno bisogno di più esercizio." />

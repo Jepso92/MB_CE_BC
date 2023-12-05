@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="DefaultCatcherEvents1" text="Il vostro rapitore vi guarda con attenzione, poi si avvicina e accarezza brevemente uno dei vostri seni. Scuote la testa, dicendoti che pensava di aver riconosciuto le tue doti femminili dall'ultimo bordello che avevano visitato. Speriamo che questo non dia loro qualche idea..." />

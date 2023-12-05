@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="DefaultRandomEventsFemale1" text="Dopo una lunga giornata di marcia, vi annoiate e i vostri occhi sono attratti dalle spalle larghe e dai seni formosi dei vostri uomini. Vi viene in mente che potreste divertirvi un po'..." />
