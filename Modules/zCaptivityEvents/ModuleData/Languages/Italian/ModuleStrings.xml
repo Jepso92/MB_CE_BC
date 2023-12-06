@@ -2,11 +2,11 @@
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
   xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Italian" />
+    <tag language="Italiano" />
   </tags>
   <strings>
     <string id="CEEVENTS0999" text="Error: failed to initialize scenes" />
-    <string id="CEEVENTS1000" text="Captivity Events loaded with {EVENT_COUNT} Events and {IMAGE_COUNT} Images. {newline} ^o^ Enjoy your events. Remember to endorse!" />
+    <string id="CEEVENTS1000" text="Captivity Events caricato con {EVENT_COUNT} Eventi e {IMAGE_COUNT} Immagini. {newline} ^o^ Godetevi i vostri eventi. Ricordatevi di supportare!" />
     <string id="CEEVENTS1001" text="Failed to load {FILE} for more information refer to more information refer to Modules\\zCaptivityEvents\\ModuleLogs\\LoadingFailedXML.txt" />
     <string id="CEEVENTS1002" text="Failed to load {FILE} for more information refer to more information refer to Modules\\zCaptivityEvents\\ModuleLogs\\LoadingFailedXML.txt" />
     <string id="CEEVENTS1003" text="Failed to load captivity events more information refer to more information refer to Modules\\zCaptivityEvents\\ModuleLogs\\LoadingFailedXML.txt" />
