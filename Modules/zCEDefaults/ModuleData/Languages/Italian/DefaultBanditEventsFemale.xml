@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Italiano" />
+  </tags>
+  <strings>
+    <string id="DefaultBanditEventsFemale108" text="You carefully escape while the bandits are distracted, and make your way out the cave, reaching the ground with a burst of relief. Just as you move to hide behind a rock, you feel a muscled hand grasp your arm, and you're roughly shoved against the wall. One of the bandits appears to have caught up to you with commendable speed. Seething at your insolence, the man shakes his head, then glances towards his compatriots. 'Break her.' He says, and grins cruelly as they descend like scavengers to feast upon your helpless body." />
+  </strings>
+</base>

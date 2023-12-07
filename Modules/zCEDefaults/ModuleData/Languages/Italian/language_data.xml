@@ -3,6 +3,7 @@
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsCommon.xml" />
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsFemale.xml" />
   <LanguageFile xml_path="Italian/DefaultCaptiveEventsMale.xml" />
+  <LanguageFile xml_path="Italian/DefaultBanditEventsFemale.xml" />
 
   <LanguageFile xml_path="Italian/DefaultCaptiveRequiredGeneral.xml" />
 
