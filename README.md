@@ -1,4 +1,4 @@
 Traduzione ITA di CE & BC
 V0.2.6
 
-Estrarre la cartella 'Modules' nella cartella di Bannerlord
+Copiare la cartella 'Modules' e incollarla nella cartella di Bannerlord
