@@ -91,8 +91,8 @@
     <string id="TBRandomEventsCompanion_Sexual_Broken006" text="Dite loro di smettere di abusare di lui." />
     <string id="TBRandomEventsCompanion_Sexual_Broken007" text="Ignorateli." />
     <string id="TBRandomEventsCompanion_Sexual_Broken008" text="Partecipate al divertimento." />
-    <string id="TBRandomEventsCompanion_Sexual_Broken009" text="Lavarla e vestirla." />
-    <string id="TBRandomEventsCompanion_Sexual_Broken010" text="Ignorate il disgraziato." />
+    <string id="TBRandomEventsCompanion_Sexual_Broken009" text="Lavatela e vestitela." />
+    <string id="TBRandomEventsCompanion_Sexual_Broken010" text="{?COMPANIONISFEMALE_1}Ignorate la disgraziata{?}Ignorate il disgraziato." />
     <string id="TBRandomEventsCompanion_Sexual_Broken011" text="Le ordini di alzarsi in piedi." />
     <string id="TBRandomEventsCompanion_Sexual_Broken012" text="Lavatelo e vestitelo." />
     <string id="TBRandomEventsCompanion_Sexual_Broken013" text="Ordinategli di alzarsi in piedi." />

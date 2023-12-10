@@ -4,4 +4,5 @@
   <LanguageFile xml_path="Italian/TBModularEvents.xml" />
   <LanguageFile xml_path="Italian/TBRandomEvents.xml" />
   <LanguageFile xml_path="Italian/TBSlaveryEventsFemale.xml" />
+  <LanguageFile xml_path="Italian/PersonalTranslate.xml" />
 </LanguageData>
